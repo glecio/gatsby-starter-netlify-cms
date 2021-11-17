@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Teste de pagina
+title: "Teste de pagina werwer "
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
